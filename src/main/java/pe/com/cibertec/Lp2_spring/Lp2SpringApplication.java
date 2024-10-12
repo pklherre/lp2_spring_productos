@@ -3,7 +3,6 @@ package pe.com.cibertec.Lp2_spring;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
-// test
 @SpringBootApplication
 public class Lp2SpringApplication {
 
